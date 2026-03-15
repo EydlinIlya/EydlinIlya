@@ -19,12 +19,6 @@ Currently exploring large language models and web application development.
 
 ---
 
-## GitHub Stats
-
-![EydlinIlya's GitHub stats](https://github-readme-stats.vercel.app/api?username=EydlinIlya&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-EydlinIlya-181717?style=flat&logo=github)](https://github.com/EydlinIlya)
