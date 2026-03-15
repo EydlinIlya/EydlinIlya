@@ -1,4 +1,4 @@
-# Ilya Eydlin
+#Eli (Ilya) Eydlin
 
 Computational biologist and statistician working on controlled release at [Barcode Nanotech](https://www.barcode-nano.com/) — developing LNP-based RNA/DNA drug delivery platforms.
 
