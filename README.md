@@ -1,6 +1,7 @@
 # Eli Eydlin
 
 ![Time in Shelter](https://ttnjqiyfixfxuosuocow.supabase.co/functions/v1/serve-badge/JbOyWnVzicITlDdD)
+---
 Computational biologist and statistician working on controlled release at [Barcode Nanotech](https://www.barcode-nano.com/) — developing LNP-based RNA/DNA drug delivery platforms.
 
 ---
