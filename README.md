@@ -1,6 +1,6 @@
-# Eli (Ilya) Eydlin
-![Time in Shelter](https://deliver-no-matter-what.onrender.com/badge/DX_29xrRxNTgqr2w.svg)
+# Eli Eydlin
 
+![Time in Shelter](https://ttnjqiyfixfxuosuocow.supabase.co/functions/v1/serve-badge/JbOyWnVzicITlDdD)
 Computational biologist and statistician working on controlled release at [Barcode Nanotech](https://www.barcode-nano.com/) — developing LNP-based RNA/DNA drug delivery platforms.
 
 ---
