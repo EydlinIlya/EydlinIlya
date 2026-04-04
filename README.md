@@ -1,4 +1,4 @@
-⁹# Eli Eydlin
+# Eli Eydlin
 
 ![Time in Shelter](https://ttnjqiyfixfxuosuocow.supabase.co/functions/v1/serve-badge/2OEyW3aw35zfOlVd)
 
