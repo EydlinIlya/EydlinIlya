@@ -23,11 +23,3 @@ I also build interactive data tools and visualizations.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
-
-## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-EydlinIlya-181717?style=flat&logo=github)](https://github.com/EydlinIlya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-elieydlin-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/elieydlin)
-[![Email](https://img.shields.io/badge/Email-ilyabeydlin@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilyabeydlin@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@Eydlin-2CA5E0?style=flat&logo=telegram)](https://t.me/Eydlin)
