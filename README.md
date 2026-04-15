@@ -2,17 +2,20 @@
 
 ![Time in Shelter](https://ttnjqiyfixfxuosuocow.supabase.co/functions/v1/serve-badge/2OEyW3aw35zfOlVd)
 
+*Check out https://deliver-no-matter-what.vercel.app/ if you want a similar badge.*
+
 ---
 
-Computational biologist and data scientist working on controlled release at [Barcode Nanotech](https://www.barcode-nano.com/) — developing LNP-based RNA/DNA drug delivery platforms.
+Data Scientist and Computational biologist working on controlled release at [Barcode Nanotech](https://www.barcode-nano.com/) — developing LNP-based RNA/DNA drug delivery platforms.
 
 ---
 
 ## About
+I specialize in applying statistics and data science to computational biology and regulatory environments, focusing on new therapeutic modalities. 
 
-I work at the intersection of statistics, computational biology, and nanotechnology.
-My focus is on LNP optimization, algorithm development, and building data pipelines for drug delivery research.
-I also build interactive data tools and visualizations.
+In my spare time, I dive into urban policy, elections, and psychiatry—the latter being a frequent topic at home as a proud husband of a psychiatrist. 
+
+Additionally, I build interactive data tools, visualizations, and web applications.
 
 ---
 
