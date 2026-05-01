@@ -1,11 +1,5 @@
 # Eli Eydlin
 
-![Time in Shelter](https://ttnjqiyfixfxuosuocow.supabase.co/functions/v1/serve-badge/2OEyW3aw35zfOlVd)
-
-*Check out https://deliver-no-matter-what.vercel.app/ if you want a similar badge.*
-
----
-
 Data Scientist and Computational biologist working on controlled release at [Barcode Nanotech](https://www.barcode-nano.com/) — developing LNP-based RNA/DNA drug delivery platforms.
 
 ---
